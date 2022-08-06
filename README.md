@@ -1,2 +1,3 @@
-# Elwind-Server-Cloner
-The Fastest Discord Template Player
+# Wizard-Server-Cloner
+
+```pip install -r requirements.txt```
